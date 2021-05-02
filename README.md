@@ -18,7 +18,7 @@ You can use [Serial code protection for unity](https://github.com/nibek1000/Seri
 
 ## Detailed install
 
-If you need to, you can watch a tutorial on how to install this tool
+If you need to, you can watch a tutorial on how to install this tool on
 [Youtube](https://youtu.be/o2CN5ALdKEs)
 
 
