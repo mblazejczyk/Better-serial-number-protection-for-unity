@@ -1,6 +1,10 @@
 # Better serial number protection for unity
 Thanks to this tool you can protect your games from people who didn't pay for it! It is very simple to use as a developer and as a player in your game.
 
+## Regarding Unity policy update
+
+This asset will <b><u>no longer be supported</u></b> due to recent unity break of trust. 
+
 ## Read this
 
 I do not take responsibility for any security leaks. This tool may be secured enough to protect from basic users, but more advanced programmers may find a way to get over this tool.
